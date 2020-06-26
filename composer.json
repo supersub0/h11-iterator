@@ -1,5 +1,5 @@
 {
-    "name": "h11/storage",
+    "name": "h11/iterator",
     "autoload": {
         "psr-4": {
             "Converter\\": "src/"
