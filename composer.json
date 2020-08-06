@@ -2,8 +2,13 @@
     "name": "h11/iterator",
     "autoload": {
         "psr-4": {
-            "Converter\\": "src/"
+            "H11\\Iterator\\": "src/"
         }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "H11\\Iterator\\": "tests/"
+      }
     }
 }
 
